@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/UnnamedArmaGroupHub/.github/main/profile/yeet21.png" height="100" />
-
 ### Unnamed Arma Group
 
 #### Make memes, not war.
